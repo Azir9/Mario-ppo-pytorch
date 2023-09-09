@@ -1,5 +1,6 @@
 # Mario-ppo-pytorch
-
+## run:
+'python3 PPO2.py'
 ## function
 It's a test model based on Reinforcement learning ,which train an A.I. to play super-mario by using PPO2.
 
